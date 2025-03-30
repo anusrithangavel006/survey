@@ -1,0 +1,18 @@
+.rat{
+    text-align: center;
+}
+body{
+    background-color: rgb(124, 229, 112);
+}
+fieldset{
+    background-color: rgb(83, 153, 83); /* Gradient effect */
+    border-color: black;
+    border-radius: 10px;
+}
+.hat{
+    background-color: rgb(129, 241, 64);
+}
+.mat{
+    background-color: rgba(170, 202, 11, 0.968);
+    text-align: center;
+}

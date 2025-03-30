@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(158, 187, 234);
+    text-align: center;
+}
+fieldset{
+    height: 250px;
+    width: 100px;
+    background-color: rgb(249, 239, 157);
+    border-radius: 15px;
+}
+p{
+    background-color: rgb(129, 197, 78);
+    border-radius: 15px;
+}
+  
+  .cont{
+    display: flex; /* Flexbox to make both sections fill the page */
+    height: 100vh; /* Full viewport height */
+  }
+  
+ 
+  
+  .right{
+    width: 70%; /* Takes remaining space */
+    background: rgb(180, 229, 20);
+    padding: 20px;
+  }
+  .dum{
+    background-color: cyan;
+  }
